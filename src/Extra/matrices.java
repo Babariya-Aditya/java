@@ -1,3 +1,5 @@
+package Extra;
+
 import java.util.Scanner;
 public class matrices {
     public static void main(String[] args)
